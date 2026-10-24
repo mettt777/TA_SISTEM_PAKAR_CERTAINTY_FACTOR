@@ -1,0 +1,28 @@
+[
+  {
+    "waktu": "24-04-2026 19:13:07",
+    "gejala": [
+      "Pilek / Hidung Tersumbat",
+      "Sakit Kepala"
+    ],
+    "hasil": {
+      "Migrain": 90.0,
+      "ISPA": 60.0,
+      "Influenza": 50.0
+    },
+    "diagnosa_utama": "Migrain"
+  },
+  {
+    "waktu": "24-04-2026 19:12:56",
+    "gejala": [
+      "Pilek / Hidung Tersumbat",
+      "Pusing / Vertigo"
+    ],
+    "hasil": {
+      "Migrain": 70.0,
+      "ISPA": 60.0,
+      "Hipertensi": 60.0
+    },
+    "diagnosa_utama": "Migrain"
+  }
+]
